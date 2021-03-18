@@ -8,3 +8,6 @@ The sum of the squares of the first ten natural numbers is,
 The square of the sum of the first ten natural numbers is,
 
           (1 + 2 ... + 10)^2 = 5025
+          
+
+Link to the problem: https://projecteuler.net/problem=6
